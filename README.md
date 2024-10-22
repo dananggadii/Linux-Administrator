@@ -20,8 +20,24 @@ ls -al [folder]
 
 ```
 mkdir fruits-folder
-ls  
 cd fruits-folder 
 ```
 
 ![image](https://github.com/user-attachments/assets/2a146c75-3806-4281-aa67-4a0e59d7d710)
+
+### Back to parent directory
+
+```
+cd ..
+```
+
+![image](https://github.com/user-attachments/assets/9ed4d415-e658-4367-9add-0d3a24142b6d)
+
+## Back to parent and move another directory 
+
+```
+cd ../[another folder]
+```
+
+![image](https://github.com/user-attachments/assets/a6dc5974-b4ba-4bdf-9cce-9b18df986c84)
+
