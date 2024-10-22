@@ -78,9 +78,19 @@ pwd
 
 ![image](https://github.com/user-attachments/assets/54ef0adf-18ed-472f-8f4a-564493bd0cab)
 
-## To know the current folder 
+## Delete a folder
 
 ```
-pwd
+rmdir [nama folder]
 ```
+
+![image](https://github.com/user-attachments/assets/df6d4347-afa9-4e12-ba69-20f191226cc6)
+
+## Delete multiple folders
+
+```
+rmdir [nama folder] [nama folder]
+```
+
+![image](https://github.com/user-attachments/assets/8cd84420-c6bb-46d4-bad8-7bbee0724488)
 
