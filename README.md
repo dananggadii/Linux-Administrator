@@ -102,7 +102,7 @@ rm -rf [nama folder]
 
 ![image](https://github.com/user-attachments/assets/32832362-9b94-499b-9b39-1f67085359fe)
 
-## Delete a folder with files in them
+## Move files to another folder 
 
 ```
 mv [nama file] [nama folder]
