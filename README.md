@@ -6,4 +6,5 @@
 ls /bin
 ```
 
-![image](https://github.com/user-attachments/assets/53230498-903f-46db-b53b-12417cc8a452)
+![image](https://github.com/user-attachments/assets/8fc8cc0a-0c09-474c-a469-2b515dcb79dc)
+
