@@ -40,6 +40,14 @@ cd [folder name]
 
 ![image](https://github.com/user-attachments/assets/2a146c75-3806-4281-aa67-4a0e59d7d710)
 
+## Move into or change multiple directory.
+
+```
+cd [parent folder]/[child folder] 
+```
+
+![image](https://github.com/user-attachments/assets/3a816e64-c50c-4399-a70f-5c6ff76a96b1)
+
 ### Back to parent directory
 
 ```
