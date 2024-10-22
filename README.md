@@ -94,3 +94,11 @@ rmdir [nama folder] [nama folder]
 
 ![image](https://github.com/user-attachments/assets/8cd84420-c6bb-46d4-bad8-7bbee0724488)
 
+## Delete a folder with files in them
+
+```
+rm -rf [nama folder]
+```
+
+![image](https://github.com/user-attachments/assets/32832362-9b94-499b-9b39-1f67085359fe)
+
