@@ -102,3 +102,15 @@ rm -rf [nama folder]
 
 ![image](https://github.com/user-attachments/assets/32832362-9b94-499b-9b39-1f67085359fe)
 
+## Delete a folder with files in them
+
+```
+mv [nama file] [nama folder]
+mv [nama file] [nama file] [nama folder]
+```
+
+![image](https://github.com/user-attachments/assets/d4618bac-12a0-49ec-abde-052a1de57448)
+
+![image](https://github.com/user-attachments/assets/11cf9303-b848-44a2-9954-2a71ac2459c3)
+
+
