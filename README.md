@@ -56,6 +56,12 @@ cd ..
 
 ![image](https://github.com/user-attachments/assets/9ed4d415-e658-4367-9add-0d3a24142b6d)
 
+```
+cd ../..
+```
+
+![image](https://github.com/user-attachments/assets/85fb75ad-294b-4c36-976d-7d6142ef541a)
+
 ## Back to parent and move another directory 
 
 ```
