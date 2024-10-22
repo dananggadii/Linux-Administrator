@@ -35,8 +35,7 @@ mkdir -p [parent folder]/[child folder]
 ## Move into or change directory.
 
 ```
-mkdir fruits-folder
-cd fruits-folder 
+cd [folder name] 
 ```
 
 ![image](https://github.com/user-attachments/assets/2a146c75-3806-4281-aa67-4a0e59d7d710)
