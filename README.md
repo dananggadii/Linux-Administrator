@@ -136,10 +136,16 @@ cp -r [nama folder] [nama folder tujuan]
 ## compress a file using the gzip compression  
 
 ```
-gzip [nama file] 
+-- zip file with delete file
+gzip [nama file]
+-- zip file and no delete file  
 gzip -c [filename] > [filename.gz]
+-- zip multiple file
 gzip [filename1] [filename2]
+-- zip all file in folder 
 gzip -r [foldername]
+-- decompress file 
+gzip -d [filename]
 ```
 
 ![image](https://github.com/user-attachments/assets/491eabdb-f44f-474b-8c48-f24fa3da2d62)
