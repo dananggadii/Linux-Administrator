@@ -122,3 +122,14 @@ touch [nama file] [nama file]
 
 ![image](https://github.com/user-attachments/assets/150ea9c3-f93a-4af0-a926-0b9141168b55)
 
+## Copy file to folder and folder to folder  
+
+```
+cp [nama file] [nama folder]
+cp -r [nama folder] [nama folder tujuan] 
+```
+
+![image](https://github.com/user-attachments/assets/f451ea0e-fb1b-4047-8e2a-efd83214773f)
+
+![image](https://github.com/user-attachments/assets/b8b46e2a-ae2d-4d5e-88cc-117977f955e8)
+
