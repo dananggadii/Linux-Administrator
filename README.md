@@ -133,3 +133,22 @@ cp -r [nama folder] [nama folder tujuan]
 
 ![image](https://github.com/user-attachments/assets/b8b46e2a-ae2d-4d5e-88cc-117977f955e8)
 
+## compress a file using the gzip compression  
+
+```
+gzip [nama file] 
+gzip -c [filename] > [filename.gz]
+gzip [filename1] [filename2]
+gzip -r [foldername]
+```
+
+![image](https://github.com/user-attachments/assets/491eabdb-f44f-474b-8c48-f24fa3da2d62)
+
+![image](https://github.com/user-attachments/assets/a0422224-d1b0-4cb9-bd6d-836f22054a03)
+
+![image](https://github.com/user-attachments/assets/8bf2ebc8-b4b0-4750-b481-7244656bd459)
+
+![image](https://github.com/user-attachments/assets/d090f26a-1187-45ad-8524-10645391b01d)
+
+![image](https://github.com/user-attachments/assets/95145052-2bac-4764-8c15-2078b2146556)
+
