@@ -113,4 +113,12 @@ mv [nama file] [nama file] [nama folder]
 
 ![image](https://github.com/user-attachments/assets/11cf9303-b848-44a2-9954-2a71ac2459c3)
 
+## Create file and multiple file 
+
+```
+touch [nama file] 
+touch [nama file] [nama file] 
+```
+
+![image](https://github.com/user-attachments/assets/150ea9c3-f93a-4af0-a926-0b9141168b55)
 
